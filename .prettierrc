@@ -1,0 +1,11 @@
+{
+  "tabWidth": 2,
+  "indent_style": "space",
+  "indent_size": 2,
+  "trailingComma": "none",
+  "semi": false,
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "insert_final_newline": true,
+  "arrowParens": "always"
+}
