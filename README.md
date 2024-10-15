@@ -2,10 +2,10 @@
 
 ## Roadmap
 
-- [ ] Add TodoMVC styles
-- [ ] List every TODOs
-- [ ] Option to delete a TODO
-- [ ] Mark TODO as completed
+- [x] Add TodoMVC styles
+- [x] List every TODOs
+- [x] Option to delete a TODO
+- [x] Mark TODO as completed
 - [ ] Add a TODO filter
 - [ ] Show non-completed TODOs number (Footer)
 - [ ] Add a way to delete every completed TODO
