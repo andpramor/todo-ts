@@ -7,7 +7,7 @@
 - [x] Option to delete a TODO
 - [x] Mark TODO as completed
 - [x] Add a TODO filter
-- [ ] Show non-completed TODOs number (Footer)
+- [x] Show non-completed TODOs number (Footer)
 - [ ] Add a way to delete every completed TODO
 - [ ] Add a Header with an input
 - [ ] Add a new TODO (Header)
