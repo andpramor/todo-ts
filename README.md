@@ -11,7 +11,8 @@
 - [x] Add a way to delete every completed TODO
 - [x] Add a Header with an input
 - [x] Add a new TODO (Header)
-- [ ] Edit TODOs text with double click
+<!-- From here on, without video guide -->
+- [x] Edit TODOs text with double click
 - [ ] Add animations with AutoAnimate
 - [ ] Pass state management to a reducer
 - [ ] Synchronize with a backend
