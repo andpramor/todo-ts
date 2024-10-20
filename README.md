@@ -14,7 +14,7 @@
 <!-- From here on, without video guide -->
 - [x] Edit TODOs text with double click
 - [x] Add animations with AutoAnimate
-- [ ] Develop a custom hook to refactor the business logic out of the App component
+- [x] Develop a custom hook to refactor the business logic out of the App component
 - [ ] Pass state management to a reducer
 - [ ] Persistence using localStorage
 - [ ] Persistence using a backend
