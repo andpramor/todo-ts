@@ -13,6 +13,8 @@
 - [x] Add a new TODO (Header)
 <!-- From here on, without video guide -->
 - [x] Edit TODOs text with double click
-- [ ] Add animations with AutoAnimate
+- [x] Add animations with AutoAnimate
+- [ ] Develop a custom hook to refactor the business logic out of the App component
 - [ ] Pass state management to a reducer
-- [ ] Synchronize with a backend
+- [ ] Persistence using localStorage
+- [ ] Persistence using a backend
