@@ -16,5 +16,5 @@
 - [x] Add animations with AutoAnimate
 - [x] Develop a custom hook to refactor the business logic out of the App component
 - [ ] Pass state management to a reducer
+- [ ] Avoid prop drilling using a context?
 - [ ] Persistence using localStorage
-- [ ] Persistence using a backend
