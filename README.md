@@ -1,5 +1,7 @@
 # 📝 TO-DO app with React + Typescript 📝
 
+Classic To-Do webapp, built with React using Typescript and the styles from <a href="https://todomvc.com/">TodoMVC project</a>.
+
 ## Roadmap
 
 - [x] Add TodoMVC styles
@@ -16,5 +18,5 @@
 - [x] Add animations with AutoAnimate
 - [x] Develop a custom hook to refactor the business logic out of the App component
 - [ ] Pass state management to a reducer
-- [ ] Avoid prop drilling using a context?
+- [ ] Avoid prop drilling using react context
 - [ ] Persistence using localStorage
